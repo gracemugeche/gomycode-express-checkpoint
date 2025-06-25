@@ -1,0 +1,19 @@
+# Ignore node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional - VSCode settings
+.vscode/
+
+# Ignore environment files (if any)
+.env
+
+# Optional - ignore build files (if you ever generate them)
+dist/
